@@ -1,0 +1,19 @@
+# Virtual environment
+server/venv/
+client/venv/
+
+# Secret keys — NEVER push
+server/.env
+
+# FAISS store and uploaded files
+server/faiss_store/
+server/uploaded_pdfs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# VS Code
+.vscode/
