@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 [LIVE DEMO — Try RagBot](https://shivam5253-ragbot-ui.hf.space/)
+
 
 </div>
 
@@ -286,3 +286,6 @@ This makes it easier to change the backend URL without modifying API request fun
 - Llama 3.1 8B Instant
 - Uvicorn
 - Requests
+
+
+  ### 🚀 [LIVE DEMO — Try RagBot](https://shivam5253-ragbot-ui.hf.space/)
